@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=black">](https://www.instagram.com/messias.ribeiro.31)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=black">](https://www.instagram.com/messiasbarreira)
 
  [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=black">](https://www.facebook.com/messias.ribeiro.31)
 
